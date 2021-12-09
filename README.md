@@ -14,7 +14,8 @@ bitcoin_block_number 713359.0
 ```
 
 
-You can custome app.py file to add more metrics
+You can custome app.py file to add more metrics.
+Don't forget to fill .env file.
 
 
 
