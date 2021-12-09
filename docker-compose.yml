@@ -1,0 +1,12 @@
+version: "3"
+services:
+  btc_exporter:
+    container_name: btc-exporter
+    build: build_src
+    restart: always
+    ports:
+        - "5000:5000"
+    logging:
+      driver: "json-file"
+      options:
+        tag: "{{.Name}}"
