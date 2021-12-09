@@ -18,6 +18,7 @@ You can custome app.py file to add more metrics.
 Don't forget to fill .env file.
 
 
-
+Note that;
+ You can use this exporter for litecoin
 
 
