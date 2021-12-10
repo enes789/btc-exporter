@@ -2,6 +2,8 @@
 
 ## QuickStart
 
+Clone this repo, fill the .env file and type below command
+
 ```
 docker-compose up -d
 ```
